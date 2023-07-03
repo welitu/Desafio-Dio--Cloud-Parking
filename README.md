@@ -15,6 +15,5 @@ Spring BootJavaGit
 
 
 sdasdasdas
-asdasda
-dasdasd
+asdasd
 sadasd
